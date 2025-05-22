@@ -1,0 +1,11 @@
+/home/daniil/Projects/Python/Kwork/PhotoBot/.env
+/home/daniil/Projects/Python/Kwork/PhotoBot/venv
+.git
+.venv
+venv/
+__pycache__/
+*.pyc
+*.env
+.vscode/
+.DS_Store
+*.sqlite3
